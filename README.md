@@ -19,7 +19,7 @@ Incorporating static typing into the embedding using Scala 3 match types.
 
 ## Installation
 
-**All you need to do is visit [the course website](https://dslcourse2024.hablapps.com) once it's available and log in to our Jupyter Hub instance using your GitHub account!**
+**All you need to do is visit [the course website](https://lambdaws.hablapps.com) once it's available and log in to our Jupyter Hub instance using your GitHub account!**
 
 However, if something goes wrong, below are the instructions to install the Scala 3 kernel for Jupyter on your machine, as well as how to run a Docker container with everything preinstalled, if you prefer that option.
 
